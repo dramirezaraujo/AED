@@ -1,4 +1,4 @@
-# Algoritmo y Estructura de Datos
+# Algoritmos y Estructura de Datos
 - Curso: K1051
 - Año de cursada: 2022
 - Legajo: 1739530
