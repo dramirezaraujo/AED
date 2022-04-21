@@ -4,4 +4,4 @@
 Compilador
 - MinGw: 3.18
 - C++ 20
-- IDE eclipse
+- IDE eclipse 2021-06 (4.20.0)
