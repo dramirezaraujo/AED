@@ -3,5 +3,5 @@
 #### "Hello, World!" en C++
 Compilador
 - MinGw: 3.18
-- C++ 20
+- C++ 11
 - IDE eclipse 2021-06 (4.20.0)
